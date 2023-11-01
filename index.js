@@ -3,6 +3,7 @@ const request = require('request');
 // reference Fields： https://github.com/dooboolab-community/react-native-iap/blob/2a980709054a32fc2af4e389300a482cb098f83e/src/types/index.ts#L66
 const receiptData = '';
 
+// docs: https://developer.apple.com/documentation/appstorereceipts/verifyreceipt
 // password from https://appstoreconnect.apple.com/access/shared-secret
 const password = ''
 const options = {
