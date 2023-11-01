@@ -1,0 +1,17 @@
+{
+  "name": "app_receipt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.4.1",
+    "node-rsa": "^1.1.1",
+    "pkcs7": "^1.0.4"
+  }
+}
