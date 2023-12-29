@@ -12,6 +12,7 @@
   "dependencies": {
     "asn1.js": "^5.4.1",
     "node-rsa": "^1.1.1",
-    "pkcs7": "^1.0.4"
+    "pkcs7": "^1.0.4",
+    "request": "^2.88.2"
   }
 }
